@@ -1,14 +1,8 @@
 {
   "name": "video-ui-testes-cypress",
   "version": "0.1.0",
-  "dependencies": {
-    "bootstrap": "^4.1.3",
-    "cypress": "^3.1.0",
-    "prop-types": "^15.6.2",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "react-scripts": "1.1.5",
-    "reactstrap": "^6.4.0"
+  "author": "Lay-RosaLauren",
+  "license": "ISC"
   },
   "scripts": {
     "cypress": "cypress run",
@@ -19,9 +13,18 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "cypress": "^3.1.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.5",
+    "reactstrap": "^6.4.0"
+  },
+ 
   "devDependencies": {
     "lite-server": "^2.3.0"
   },
-  "author": "Lay-RosaLauren",
-  "license": "ISC"
+  
 }
