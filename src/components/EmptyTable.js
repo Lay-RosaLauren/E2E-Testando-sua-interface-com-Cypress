@@ -9,3 +9,4 @@ const EmptyTable = () => (
 )
 
 export default EmptyTable
+
