@@ -2,7 +2,8 @@
   "name": "video-ui-testes-cypress",
   "version": "0.1.0",
   "author": "Lay-RosaLauren",
-  "license": "ISC"
+  "license": "ISC",
+   "private": true
   },
   "scripts": {
     "cypress": "cypress run",
